@@ -6,10 +6,8 @@ resource "aws_instance" "web1" {
   associate_public_ip_address = var.associate_public_ip_address
   subnet_id                   = var.subnet_id
 
-
   tags = var.tags
 }
-
 
 output "public-ip" {
   value = aws_instance.web1.public_ip
