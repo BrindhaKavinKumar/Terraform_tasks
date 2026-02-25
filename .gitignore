@@ -6,3 +6,8 @@ crash.log
 crash.*.log
 *.tfvars
 *.tfvars.json
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
