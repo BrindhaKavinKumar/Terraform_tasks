@@ -9,6 +9,7 @@ resource "aws_instance" "web1" {
   tags = var.tags
 }
 
+
 output "public-ip" {
   value = aws_instance.web1.public_ip
 
