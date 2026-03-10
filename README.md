@@ -62,4 +62,7 @@ I am continuously improving the code structure, documentation, and best practice
 
 ## Author
 
-**Brindha**
+## Author
+
+**Brindha**  
+Aspiring DevOps Engineer | Learning Cloud, Infrastructure as Code, and DevOps Practices
