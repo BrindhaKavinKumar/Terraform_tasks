@@ -1,0 +1,8 @@
+Let's practice Terraform everyday tasks: 
+Task 1: Spinning up AWS EC2 Instances. 
+Task 2: Creating your own VPC with public & private subnets 
+Task 3: Deploy a web application, including a new VPC using Terraform 
+Task 4: Setting up Load balancer / Autoscaling for the application 
+Task 5: Creating Multi-Environment Infrastructure 
+Task 6: Terraform State Management 
+Task 7: Setting up Kubernetes Infrastructure on AWS EKS. Let's do two tasks every day
